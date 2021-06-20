@@ -1,0 +1,25 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to left,#92fff6 , #ffa6fa); /* Standard syntax */
+}
+h1 {
+    font-family: 'Shippori Mincho', serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+h3 {
+	font: 900 1em 'Shippori Mincho', serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+    margin-top: 15%;
+}
